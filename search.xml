@@ -3,37 +3,10 @@
   
     
     <entry>
-      <title>2018-12-27</title>
-      <link href="/2018/12/27/2018-12-27/"/>
-      <url>/2018/12/27/2018-12-27/</url>
-      <content type="html"><![CDATA[<p>从新，搭建了一个虚拟机，<br>一切环境都从新搭建，四个月了，<br>几乎没什么改变，<br>知道该怎么做可以改变，<br>却缺乏意志力，行动的意志力，<br>坚持的意志力，<br>我不停反复问自己，<br>难道一辈子就这样了吗，<br>不。。。绝不。。哈哈哈。</p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2018/12/27/hello-world/"/>
       <url>/2018/12/27/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>Want Some Changes</title>
-      <link href="/2018/08/18/Want-Some-Changes/"/>
-      <url>/2018/08/18/Want-Some-Changes/</url>
-      <content type="html"><![CDATA[<p>浑浑噩噩的过着，<br>被亲朋好友看不起。<br>不管是自己喜欢做的事情，<br>还是自己只能做的事情，<br>都做的半斤八两，没能有赚太多钱的本事。</p><p>不想再这样下去了。<br>不想再这样下去了。<br>希望过年的时候别是这样的状态。</p><p>还是主要围绕着找一份编程方面的工作，<br>还有想做个成功的零售量化交易者，<br>我知道会很难，但我想试试看，不想再被BB。</p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>Untitled</title>
-      <link href="/2018/06/18/Untitled/"/>
-      <url>/2018/06/18/Untitled/</url>
-      <content type="html"><![CDATA[<p>“三年后父亲去世，我却没有<u>带他去看过他喜欢的足球赛。</u><br>两年后母亲去世，却没有<u>带她坐汽车兜过风。</u>子欲养而亲不待，<br>可是我们却老是想着以后，还有以后。<u>事实却是过去了，便不再回来。</u></p><p>“人生就这么步履不停地前行着，那些舍得的舍不得的人和事总会<br>一一远去，以至再也无法望见。你可能偶尔怀念，也可能丢了命似的道不了别。”</p><p>让时间一点点流过，感受一切哀痛<br>压抑温馨喜悦，然后日子还得淡淡前行，</p>]]></content>
       
       
     </entry>
